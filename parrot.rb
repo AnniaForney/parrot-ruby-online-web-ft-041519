@@ -2,6 +2,6 @@
 # returns the phrase
 
 
-def method
+def parrot method
   puts "parrot"
 end 
